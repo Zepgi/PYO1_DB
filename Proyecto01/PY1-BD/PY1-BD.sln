@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PY1-BD", "PY1-BD\PY1-BD.csproj", "{79DEA1D1-2D46-42A6-BB60-80E058A535FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DEA1D1-2D46-42A6-BB60-80E058A535FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DEA1D1-2D46-42A6-BB60-80E058A535FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DEA1D1-2D46-42A6-BB60-80E058A535FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DEA1D1-2D46-42A6-BB60-80E058A535FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {507A9A07-0A3D-4CBC-A753-51DBD73CE6C7}
+	EndGlobalSection
+EndGlobal
